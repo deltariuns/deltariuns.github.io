@@ -18,6 +18,10 @@ td, th {
   flex-wrap: wrap;
 }
 
+.skill-album {
+  color: whitesmoke;
+}
+
 .projects-button {
   padding: 0.75em 1.25em 0.75em 1.25em;
   background-color: whitesmoke;
